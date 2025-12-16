@@ -4,14 +4,12 @@ Hoje vocês irão experimentar como os dados digitais podem ser transmitidos atr
 
 > **Modem** (abreviação de *modulador-demodulador*) é um dispositivo eletrônico responsável por viabilizar a comunicação entre computadores e redes externas, como a internet. Sua função principal é converter sinais digitais, em sinais analógicos, adequados para transmissão por meios como linhas telefônicas, cabos coaxiais ou redes móveis — e fazer o processo inverso na recepção dos dados.
 
-![alt text](figuras/Fax_modem_antigo.jpg)
 
 
 📞 **Nos anos 1990 e 2000**, o modem foi um dos principais meios de acesso à internet, especialmente antes da popularização da banda larga. Naquela época, para se conectar à internet, era necessário utilizar a linha telefônica e realizar uma ligação para o provedor de acesso. 
 
 Esse processo gerava o famoso som de conexão — uma sequência de ruídos metálicos característicos — e impedia o uso simultâneo do telefone fixo. A velocidade era bastante limitada, geralmente entre 28,8 kbps e 56 kbps, o que tornava a navegação lenta e exigia paciência.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/ofVEEWObx_I" title="Som da conexão discada (Dial-up)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [|YouTube](https://www.youtube.com/watch?v=ofVEEWObx_I)
 
